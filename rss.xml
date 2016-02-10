@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[djsnotebook]]></title>
+        <description><![CDATA[djsnotebook]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 10 Feb 2016 13:13:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Yeasayer at Les Docks (20 Jun 16)]]></title>
+            <description><![CDATA[<article><h1>Yeasayer at Les Docks (20 Jun 16)</h1><p>Buy tickets for Yeasayer's upcoming concert at Les Docks in Lausanne on 20 Jun 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f422944286caa654ea49487a2fa53205064e361f.jpg"></article>]]></description>
+            <link>https://www.songkick.com/concerts/26150504-yeasayer-at-les-docks?utm_campaign=upcoming%2Fdaily_digest&amp;utm_medium=email&amp;utm_source=skemail&amp;utm_content=tracking-button</link>
+            <guid isPermaLink="false">05ff91b5-d688-4593-811b-fe73c74475c5</guid>
+            <pubDate>Wed, 10 Feb 2016 13:13:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
