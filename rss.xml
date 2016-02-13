@@ -4,8 +4,15 @@
         <description><![CDATA[djsnotebook]]></description>
         <link>https://thegrid.ai/djsnotebook/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 16:43:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2016 16:44:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/djsnotebook/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[30 HOURS by Kanye West]]></title>
+            <description><![CDATA[<article><h1>30 HOURS by Kanye West</h1><p>Stream 30 HOURS by Kanye West from desktop or your mobile device</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/807b5d6432ae57fd8e1aeec9d9a347ffc3331e24.jpg"></article>]]></description>
+            <link>https://soundcloud.com/kanyewest/30-hours</link>
+            <guid isPermaLink="false">2a212a62-481f-4d06-888f-6f087905eece</guid>
+            <pubDate>Sat, 13 Feb 2016 16:43:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Learning der Woche</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/danieljoerg/status/698072303159132162</link>
             <guid isPermaLink="false">5b3ab5bc-c2fa-401c-a32b-01837860d0d5</guid>
             <pubDate>Sat, 13 Feb 2016 16:32:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yeasayer at Les Docks (20 Jun 16)]]></title>
-            <description><![CDATA[<article><h1>Yeasayer at Les Docks (20 Jun 16)</h1><p>Buy tickets for Yeasayer's upcoming concert at Les Docks in Lausanne on 20 Jun 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/604ea1c8c1ea0ed2305273ea5546ae8a348dfcce.jpg"></article>]]></description>
-            <link>https://www.songkick.com/concerts/26150504-yeasayer-at-les-docks?utm_campaign=upcoming%2Fdaily_digest&amp;utm_medium=email&amp;utm_source=skemail&amp;utm_content=tracking-button</link>
-            <guid isPermaLink="false">05ff91b5-d688-4593-811b-fe73c74475c5</guid>
-            <pubDate>Wed, 10 Feb 2016 13:13:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
