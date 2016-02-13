@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[djsnotebook]]></title>
         <description><![CDATA[djsnotebook]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/djsnotebook/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 13:13:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 13 Feb 2016 16:33:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/djsnotebook/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Facebook's Instant Articles Advertising Fixes Win Over Publishers http://on.wsj.com/1LklRHR</p>]]></description>
+            <link>https://twitter.com/danieljoerg/status/698072303159132162</link>
+            <guid isPermaLink="false">5b3ab5bc-c2fa-401c-a32b-01837860d0d5</guid>
+            <pubDate>Sat, 13 Feb 2016 16:32:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Yeasayer at Les Docks (20 Jun 16)]]></title>
-            <description><![CDATA[<article><h1>Yeasayer at Les Docks (20 Jun 16)</h1><p>Buy tickets for Yeasayer's upcoming concert at Les Docks in Lausanne on 20 Jun 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f422944286caa654ea49487a2fa53205064e361f.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Yeasayer at Les Docks (20 Jun 16)</h1><p>Buy tickets for Yeasayer's upcoming concert at Les Docks in Lausanne on 20 Jun 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/604ea1c8c1ea0ed2305273ea5546ae8a348dfcce.jpg"></article>]]></description>
             <link>https://www.songkick.com/concerts/26150504-yeasayer-at-les-docks?utm_campaign=upcoming%2Fdaily_digest&amp;utm_medium=email&amp;utm_source=skemail&amp;utm_content=tracking-button</link>
             <guid isPermaLink="false">05ff91b5-d688-4593-811b-fe73c74475c5</guid>
             <pubDate>Wed, 10 Feb 2016 13:13:12 GMT</pubDate>
